@@ -1,5 +1,7 @@
 # MVP scope: agent-assisted complaints and CAPA
 
+Note: this is an uncontrolled planning document. The hosting region, technology stack, identity provider, and job queue it lists as open were decided in DS-001.
+
 Draft v0.1, October 2026. Segment, pricing, and acceptance targets are hypotheses to test with design partners.
 
 ## Who it is for
