@@ -1,3 +1,5 @@
+<img src="../assets/sigiltrace-header.png" alt="SigilTrace — Trace every complaint to its source" width="320">
+
 # Qaabil document import and consistency audit
 
 Audit date: 2026-11-06

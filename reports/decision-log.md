@@ -1,3 +1,5 @@
+<img src="../assets/sigiltrace-header.png" alt="SigilTrace — Trace every complaint to its source" width="320">
+
 # Controlled-document decision log
 
 This log lists every bracketed placeholder in the controlled Markdown documents. No placeholder is resolved here.

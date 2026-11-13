@@ -2,6 +2,8 @@
 id: planning-complaint-handling
 status: uncontrolled
 ---
+<img src="../assets/sigiltrace-header.png" alt="SigilTrace — Trace every complaint to its source" width="320">
+
 
 # Complaint handling: what happens and what the agent needs
 

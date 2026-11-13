@@ -1,3 +1,5 @@
+<img src="assets/sigiltrace-header.png" alt="SigilTrace — Trace every complaint to its source" width="320">
+
 # Controlled document register
 
 | ID | Title | Revision | Status | Path | Source file | converted_from |

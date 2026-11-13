@@ -1,3 +1,5 @@
+<img src="../assets/sigiltrace-header.png" alt="SigilTrace — Trace every complaint to its source" width="320">
+
 # Qaabil validation package fix report
 
 Report date: 2026-11-07

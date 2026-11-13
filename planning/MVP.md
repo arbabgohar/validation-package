@@ -1,3 +1,5 @@
+<img src="../assets/sigiltrace-header.png" alt="SigilTrace — Trace every complaint to its source" width="320">
+
 # MVP scope: agent-assisted complaints and CAPA
 
 Note: this is an uncontrolled planning document. The hosting region, technology stack, identity provider, and job queue it lists as open were decided in DS-001.

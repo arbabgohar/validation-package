@@ -1,3 +1,5 @@
+<img src="assets/sigiltrace-header.png" alt="SigilTrace — Trace every complaint to its source" width="320">
+
 # SigilTrace validation package
 
 Markdown is the working source for this validation package.
